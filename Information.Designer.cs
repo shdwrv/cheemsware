@@ -40,7 +40,7 @@ namespace VirusIdea1
             // 
             this.title.AutoSize = true;
             this.title.Font = new System.Drawing.Font("Comic Sans MS", 60F);
-            this.title.ForeColor = System.Drawing.SystemColors.Control;
+            this.title.ForeColor = System.Drawing.Color.DeepPink;
             this.title.Location = new System.Drawing.Point(6, 9);
             this.title.Name = "title";
             this.title.Size = new System.Drawing.Size(809, 112);
@@ -51,7 +51,7 @@ namespace VirusIdea1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 14F);
-            this.label1.ForeColor = System.Drawing.SystemColors.Control;
+            this.label1.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.label1.Location = new System.Drawing.Point(12, 121);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(681, 260);
@@ -78,7 +78,7 @@ namespace VirusIdea1
             this.linkLabel1.Text = "Click Me!!!";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // Unknown
+            // Information
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -91,7 +91,7 @@ namespace VirusIdea1
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Unknown";
+            this.Name = "Information";
             this.ShowInTaskbar = false;
             this.Text = "Cheemsware";
             this.TopMost = true;
