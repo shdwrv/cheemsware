@@ -1,7 +1,7 @@
 ﻿
 namespace VirusIdea1
 {
-    partial class Form1
+    partial class Unknown
     {
         /// <summary>
         /// Required designer variable.
