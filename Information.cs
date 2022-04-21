@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace VirusIdea1
 {
-    public partial class Unknown : Form
+    public partial class Information : Form
     {
-        public Unknown()
+        public Information()
         {
             InitializeComponent();
             this.ControlBox = false;

@@ -1,7 +1,7 @@
 ﻿
 namespace VirusIdea1
 {
-    partial class Unknown
+    partial class Information
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace VirusIdea1
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Unknown));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Information));
             this.title = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();

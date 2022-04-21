@@ -16,7 +16,7 @@ namespace VirusIdea1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Unknown());
+            Application.Run(new Information());
         }
     }
 }
