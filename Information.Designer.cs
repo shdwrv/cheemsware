@@ -43,9 +43,9 @@ namespace VirusIdea1
             this.title.ForeColor = System.Drawing.Color.DeepPink;
             this.title.Location = new System.Drawing.Point(6, 9);
             this.title.Name = "title";
-            this.title.Size = new System.Drawing.Size(809, 112);
+            this.title.Size = new System.Drawing.Size(588, 112);
             this.title.TabIndex = 0;
-            this.title.Text = "Hey! Don\'t close me!";
+            this.title.Text = "HENLU!! UWU";
             // 
             // label1
             // 
@@ -54,7 +54,7 @@ namespace VirusIdea1
             this.label1.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.label1.Location = new System.Drawing.Point(12, 121);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(681, 260);
+            this.label1.Size = new System.Drawing.Size(572, 260);
             this.label1.TabIndex = 1;
             this.label1.Text = resources.GetString("label1.Text");
             // 
@@ -82,7 +82,7 @@ namespace VirusIdea1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.textBox1);
